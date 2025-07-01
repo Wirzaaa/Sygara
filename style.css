@@ -1,0 +1,54 @@
+.navbar-brand img {
+    height: 80px;
+    width: auto;
+}
+/* Wm By Wirza */
+.hero .bg-hero {
+    background-image: url(banner1.jpg); 
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+    -ms-border-radius: 50px;
+    transition: all 2s ease-in-out;
+  margin-top: 20px;
+  box-shadow: 0 7px 11px rgba(96, 95, 95, 0.5);
+
+}
+/* Wm By Wirza */
+#produk .card {
+    border-radius: 50px;
+    margin-top: 20px;
+    box-shadow: 0 3px 15px rgba(9, 9, 9, 0.5);
+}
+/* Wm By wirza */
+#produk .card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50px 50px 0 0;
+}
+/* Wm By wirza */
+#about .bg-about {
+    background-color: rgb(195, 234, 211);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    height: 350px;
+
+}
+/* Wm By wirza */
+#cta .bg-cta {
+    background-image: url(logo-full-sayur.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    border-radius: 50px;
+    text-align: center;
+}
+/* Wm By wirza */
